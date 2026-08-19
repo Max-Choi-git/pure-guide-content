@@ -1,6 +1,12 @@
 {
-  "tourImages": [
-    "step1.png",
-    "step2.png"
+  "tours": [
+    {
+      "title": "Getting Started with Pure",
+      "images": ["step1.png", "step2.png"]
+    },
+    {
+      "title": "How to Add a Publication",
+      "images": ["pub1.png", "pub2.png", "pub3.png"]
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "tours": [
     {
-      "title": "Getting Started with Pure",
-      "images": ["step1.png", "step2.png"]
+      "title": "Common Elements",
+      "images": ["ce1.png", "ce2.png"]
     },
     {
       "title": "How to Add a Publication",

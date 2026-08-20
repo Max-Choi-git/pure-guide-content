@@ -6,7 +6,15 @@
     },
     {
       "title": "How to Add a Publication",
-      "images": ["pub1.png", "pub2.png", "pub3.png"]
+      "images": ["pub1.png", "pub2.png", "pub3.png", "pub4.png", "pub5.png", "pub6.png", "pub7.png"]
+    },
+    {
+      "title": "How to Add Publications from External Source",
+      "images": ["pes1.png", "pes2.png", "pes3.png", "pes4.png"]
+    },
+    {
+      "title": "How to Edit Your Research Profile",
+      "images": ["rp1.png", "rp2.png"]
     }
   ]
 }
